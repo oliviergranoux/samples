@@ -1,4 +1,4 @@
-[Home page of sample projects](../README.md)
+[Home page of sample projects](..)
 
 # Useful links
 

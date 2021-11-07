@@ -1,3 +1,3 @@
 # Samples
 
-- [Dotnet Worker](worker/README.md)
+- [Dotnet Worker](worker)
