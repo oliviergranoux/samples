@@ -1,3 +1,5 @@
+[Home page of sample projects](../README.md)
+
 # Useful links
 
 * Worker:
