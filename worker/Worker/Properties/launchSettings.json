@@ -1,0 +1,20 @@
+﻿{
+  "profiles": {
+    "Worker-Dev": {
+      "commandName": "Project",
+      "dotnetRunMessages": "true",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development",
+        "ASPNETCORE_ENVIRONMENT": ""
+      }
+    },
+    "Worker-Prod": {
+      "commandName": "Project",
+      "dotnetRunMessages": "true",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "",
+        "ASPNETCORE_ENVIRONMENT": ""
+      }
+    }
+  }
+}
