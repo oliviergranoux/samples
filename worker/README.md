@@ -1,4 +1,4 @@
-[Home page of sample projects](..)
+[Home page of sample projects](https://github.com/oliviergranoux/samples)
 
 # Useful links
 
